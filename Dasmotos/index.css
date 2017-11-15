@@ -1,0 +1,47 @@
+
+
+
+#banner {
+        background: url("resources/images/pattern.jpeg");
+        width: 100%;
+        height: auto;
+        repeat: no-repeat;
+        margin-top: 0;
+}
+
+.banner-text{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.sub-headings{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes .sub-headings{
+background-color: mediumspringgreen;
+}
+
+#frames .sub-headings{
+  background-color: lightcoral;
+}
+
+#paint .sub-headings{
+  background-color: skyblue;
+}
+
+p{
+  font-family: Helvetica;
+  font-size: 16px;
+}
+.prices{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
